@@ -12,7 +12,9 @@
    
 <p>Esse projeto foi desenvolvido com as seguintes tecnologias:</p>
 
-- **HTML** **CSS** **e** **JAVASCRIPT**
+- **HTML**
+- **CSS** 
+- **JAVASCRIPT**
 
   
   ---
