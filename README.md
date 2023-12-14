@@ -19,7 +19,7 @@
   
   ---
   <h3 align="center">Projeto💻 </h3>
-  <p>Acesse o projeto em <a href="https://micaela-marques.github.io/blogdegatos/"> site🌐
+  <p>Acesse o projeto em <a href="https://micaela-marques.github.io/jogodaadivinha-o/"> site🌐
   </p>
 
 
