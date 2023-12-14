@@ -1,5 +1,5 @@
 <p align="center">
-  <img alt="Projeto" src="">
+  <img alt="Projeto" src="./Jogo Adivinhação (Copy)">
 
 </p>
 
